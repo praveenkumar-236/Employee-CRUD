@@ -14,7 +14,7 @@ The Entered datas will store in MYSQL Database.
 *  Eclipse IDE
 
 
-##  IDE used
+##  API
 ### localhost:8080/employee/save
 This API will save an employee in employee database. (a record will insert to employee table). 
 
