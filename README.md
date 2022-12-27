@@ -2,7 +2,8 @@ Employee Management CRUD Operation
 
 ##  Introduction 
 
-This is a project to do crud operations in spring boot. 
+This is a project to do crud operations in spring boot. From this user can create,read update and delete the datas.
+The Entered datas will store in MYSQL Database.
 
 ##  Technologies Used 
 *  Spring Boot 
