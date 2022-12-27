@@ -12,7 +12,7 @@ This is a project to do crud operations in spring boot.
 ##  IDE used
 *  Eclipse IDE
 
-### localhost:8883/employee/save
+### localhost:8080/employee/save
 This API will save an employee in employee database. (a record will insert to employee table). 
 
 ### localhost:8080/employee/getall
